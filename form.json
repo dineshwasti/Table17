@@ -1,0 +1,78 @@
+[
+  [
+    {
+      "title": "जिल्ला",
+      "name": "jilla"
+    },
+    {
+      "title": "गाविस",
+      "name": "gabisha"
+    },
+    {
+      "title": "वनको नाम",
+      "name": "ban_ko_nam"
+    }
+  ],
+  [
+    {
+      "title": "प्लट नं.",
+      "name": "plot_number"
+    },
+    {
+      "title": "प्लटको प्रकार",
+      "name": "plot_ko_prakar"
+    },
+    {
+      "title": "प्लटको साइज",
+      "name": "plot_ko_size"
+    }
+  ],
+  [
+    {
+      "title": "मिति",
+      "name": "miti"
+    },
+    {
+      "title": "मोहडा",
+      "name": "mohada"
+    },
+    {
+      "title": "अक्षांश",
+      "name": "akshyansha"
+    }
+  ],
+  [
+    {
+      "title": "उचाइ",
+      "name": "uchai"
+    },
+    {
+      "title": "भिरालोपन",
+      "name": "bhiralopan"
+    },
+    {
+      "title": "देशान्तर",
+      "name": "desantar"
+    }
+  ],
+  [
+    {
+      "title": "वनको प्रकार",
+      "name": "ban_ko_prakar"
+    },
+    {
+      "title": "माटोको रंग",
+      "name": "mato_ko_rang"
+    }
+  ],
+  [
+    {
+      "title": "मुख्य प्रजाति",
+      "name": "mukhya_prajati"
+    },
+    {
+      "title": "माटोको बनावट",
+      "name": "mato_ko_banawat"
+    }
+  ]
+]

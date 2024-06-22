@@ -1,0 +1,40 @@
+[
+  {
+    "title": "क्र.सं",
+    "name": "sn"
+  },
+  {
+    "title": "स्थानीय ",
+    "name": "staniya"
+  },
+  {
+    "title": "नाम",
+    "name": "naam"
+  },
+  {
+    "title": "झुप्पा (क्लष्टर)",
+    "name": "cluster"
+  },
+  {
+    "title": "टिलर",
+    "name": "tilar"
+  },
+  {
+    "title": "उचाइ(मि)",
+    "name": "uchai"
+  },
+  {
+    "title": "तौल",
+    "name": "taul",
+    "sub": [
+      {
+        "title": "ताजा",
+        "name": "taja"
+      },
+      {
+        "title": "सुकेको",
+        "name": "sukeko"
+      }
+    ]
+  }
+]

@@ -1,14 +1,13 @@
-import { useState } from 'react'
-import FormComponent from './FormComponent';
-function App() {
-  const [count, setCount] = useState(0)
+import NewForm from "./NewForm";
 
+function App() {
   return (
     <div className="App">
       <h1>Survey Form</h1>
-      <FormComponent />
+      {/* <FormComponent /> */}
+      <NewForm />
     </div>
   );
 }
 
-export default App
+export default App;
