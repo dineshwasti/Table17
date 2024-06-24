@@ -122,6 +122,7 @@ export default function NewForm() {
       .then((response) => response.json())
       .then((data) => {
         console.log("Success:", data);
+        alert("Form Submitted Successfully");
       })
       .catch((error) => {
         console.error("Error:", error);
